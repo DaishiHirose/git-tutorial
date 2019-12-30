@@ -5,3 +5,4 @@ add branch 変更をインデックスに登録する
 commit issue2 インデックスの状態を記録する
 pull issue3 リモートリポジトリの内容を取得する
 reset テスト
+コミットするまでの流れを確認
